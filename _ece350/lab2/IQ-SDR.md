@@ -40,3 +40,11 @@ While transmitting with the SDR, you will:
 From this part of the lab keep the following files to submit to your TA:
 
 - The answers to 3 deliverable questions.
+
+
+I/Q Receiver output
+Review IQ theory in the textbook (Section 1.1).
+
+Download and open the GRC file general-IQ-from-USRP.grc.
+
+YOU NEED TO EDIT THE TAPS OF ONE OF THE BLOCKS TO BE 5
